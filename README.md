@@ -2,7 +2,7 @@
 
 
 
-####http://bootstrapthemes.co/item/amazing-free-html-portfolio-landing-page-template/
+####http://bootstrapthemes.co/item/bazinger-landing-page/
 
 
 Amazing is fully featured with one page landing page and fully responsive, Bootstrap based HTML5 Template. This template is very simple, minimal design and you can build whatever you like with this template.
