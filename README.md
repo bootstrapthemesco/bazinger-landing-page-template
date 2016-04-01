@@ -2,7 +2,7 @@
 
 
 
-####http://bootstrapthemes.co/item/bazinger-landing-page/
+####http://bootstrapthemes.co/item/bazinger-one-page-html-landing-page-template/
 
 
 Amazing is fully featured with one page landing page and fully responsive, Bootstrap based HTML5 Template. This template is very simple, minimal design and you can build whatever you like with this template.
